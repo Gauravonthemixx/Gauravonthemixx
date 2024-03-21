@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravonthemixx&label=Profile%20views&color=0e75b6&style=flat" alt="gauravonthemixx" /> </p>
 
-- Check my project [TCGA-BRCA Analysis Using Machine Learning Techniques](https://github.com/Gauravonthemixx/TCGA-BRCA-Analysis-Using-Machine-Learning-Techniques)
+- 🚀 Check out my latest project [TCGA-BRCA Analysis Using Machine Learning Techniques](https://github.com/Gauravonthemixx/TCGA-BRCA-Analysis-Using-Machine-Learning-Techniques)
 
-- 🌱 I’m currently learning about **Bioinformatics**
+- 🌱 I have MSc. in **Data Science and its Applications** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gauravonthemixx?tab=repositories](https://github.com/Gauravonthemixx?tab=repositories)
 
