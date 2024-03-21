@@ -1,13 +1,11 @@
-### Hi there 👋, my name is Gaurav
-#### Data Analyst
 
 ![GAURAV](https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/76fe514f-3794-4bfd-bcb3-1ed67989c18d)
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Data Analyst from United Kingdom</h3>
-![GAURAV](https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/76fe514f-3794-4bfd-bcb3-1ed67989c18d)
 
-<img alin=“right” alt= “coding” width= “400” src= “https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1KMFmsFW9hUG58jpbwoBu0&ust=1711141454120000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi60uighoUDFQAAAAAdAAAAABAk”>
+
+<img alin=“right” alt= “coding” width= “400” src= “https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravonthemixx&label=Profile%20views&color=0e75b6&style=flat" alt="gauravonthemixx" /> </p>
 
