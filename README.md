@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data Analyst from United Kingdom</h3>
 
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="https://github.com/rudrabarad/Gifs?tab=readme-ov-file">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravonthemixx&label=Profile%20views&color=0e75b6&style=flat" alt="gauravonthemixx" /> </p>
 
