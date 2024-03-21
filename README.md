@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Gaurav
 #### Data Analyst
-![GAURAV](https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/07bfa63b-3b9f-4e62-b913-29c086594b20)
+
+https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/90106a05-b5af-4e99-b5ee-61fdd15a3b00
+
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
