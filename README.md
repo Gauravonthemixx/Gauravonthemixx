@@ -5,8 +5,7 @@
 <h3 align="center">A passionate Data Analyst from United Kingdom</h3>
 
 
-<img alin=“right” alt= “coding” width= “400” src= “![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/d801eccf-1ae7-4337-adc9-1694259ed9d5)
-”>
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravonthemixx&label=Profile%20views&color=0e75b6&style=flat" alt="gauravonthemixx" /> </p>
 
