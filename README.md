@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Gaurav
 #### Data Analyst
 
-https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/90106a05-b5af-4e99-b5ee-61fdd15a3b00
+![GAURAV](https://github.com/Gauravonthemixx/Gauravonthemixx/assets/91785440/76fe514f-3794-4bfd-bcb3-1ed67989c18d)
 
 
 
